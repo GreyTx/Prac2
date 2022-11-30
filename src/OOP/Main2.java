@@ -110,6 +110,7 @@ public class Main2 {
 
 
         int num = 12345;
+        int b;
 
 
         int reversed = 0;
