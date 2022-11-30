@@ -112,6 +112,7 @@ public class Main2 {
         int num = 12345;
         int b;
 
+        int c = 123;
 
         System.out.println("Hello");
 
