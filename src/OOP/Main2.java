@@ -113,6 +113,8 @@ public class Main2 {
         int b;
 
 
+        System.out.println("Hello");
+
         int reversed = 0;
 
         while(num != 0) {
