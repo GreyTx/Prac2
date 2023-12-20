@@ -1,6 +1,5 @@
 package OOP;
 
-import java.util.*;
 
 public class Main2 {
 
