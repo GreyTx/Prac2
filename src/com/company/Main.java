@@ -16,4 +16,16 @@ public static void testCase123() {
 //test logic here
 
 }
+
+
+    public static void testCase555(String[] args) {
+
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+
+
+
+    }
 }
