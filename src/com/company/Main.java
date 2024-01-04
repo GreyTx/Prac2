@@ -10,11 +10,9 @@ public class Main {
         System.out.println("Hello world!");
 
 
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
+
+    int a = 10;
+        int b = 11;
 
 
     }
