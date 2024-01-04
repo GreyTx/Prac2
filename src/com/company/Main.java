@@ -15,5 +15,8 @@ public class Main {
    int b = 20;
 
 
+        System.out.println("Hello world!");
+        System.out.println("Hello world!");
+
     }
 }
